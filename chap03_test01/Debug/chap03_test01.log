@@ -1,2 +1,4 @@
 ﻿  main.c
+D:\Source\test\chap03_test01\main.c(16,11): warning C4305: '=': 'int'에서 'unsigned char'(으)로 잘립니다.
+D:\Source\test\chap03_test01\main.c(38,18): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
   chap03_test01.vcxproj -> D:\Source\test\chap03_test01\Debug\chap03_test01.exe

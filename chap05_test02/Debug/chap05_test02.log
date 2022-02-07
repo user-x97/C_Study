@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Source\test\chap05_test02\main.c(3,9): warning C4013: 'putchar'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+D:\Source\test\chap05_test02\main.c(8,6): warning C4013: 'puts'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  chap05_test02.vcxproj -> D:\Source\test\chap05_test01\Debug\chap05_test02.exe

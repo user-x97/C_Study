@@ -1,0 +1,2 @@
+D:\Source\test\chap09_astrick\Debug\chap09_astrick.exe
+D:\Source\test\chap09_astrick\Debug\chap09_astrick.pdb

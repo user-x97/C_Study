@@ -1,2 +1,5 @@
 ﻿  main.c
-  chap12_test01.vcxproj -> D:\Source\test\chap12_test01\Debug\chap12_test01.exe
+D:\Source\test\chap12_test01\main.c(35,51): warning C4244: '=': 'unsigned int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Source\test\chap12_test01\main.c(44,24): warning C4047: '함수': 'rsize_t'의 간접 참조 수준이 'char [4]'과(와) 다릅니다.
+D:\Source\test\chap12_test01\main.c(44,19): warning C4024: 'strcpy_s': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+D:\Source\test\chap12_test01\main.c(44,10): error C2198: 'strcpy_s': 호출에 인수가 너무 적습니다.

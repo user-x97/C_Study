@@ -41,6 +41,9 @@ void main(void)
 	printf("%s\n", ment);
 	printf("%d\n", strlen(ment)); // 글자수
 
-	strcpy(result, data2);
+	strcpy(result, data2);	// 글자 복사(보안이슈)
 	printf("result : %s\n", result);
+
+	strcat(result, data3); // 글자 합치기
+	printf("result : % s\n", result);
 }

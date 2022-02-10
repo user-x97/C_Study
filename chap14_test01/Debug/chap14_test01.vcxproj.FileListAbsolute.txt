@@ -1,0 +1,4 @@
+C:\Users\knuser\source\repos\chap14_test01\Debug\chap14_test01.exe
+C:\Users\knuser\source\repos\chap14_test01\Debug\chap14_test01.pdb
+D:\Source\test\chap14_test01\Debug\chap14_test01.exe
+D:\Source\test\chap14_test01\Debug\chap14_test01.pdb

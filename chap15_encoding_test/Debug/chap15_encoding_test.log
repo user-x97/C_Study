@@ -1,0 +1,4 @@
+﻿  main.c
+D:\Source\test\chap15_encoding_test\main.c(8,1): warning C4133: '초기화 중': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+D:\Source\test\chap15_encoding_test\main.c(24,1): warning C4133: '초기화 중': 'int *'과(와) 'char *' 사이의 형식이 호환되지 않습니다.
+  chap15_encoding_test.vcxproj -> D:\Source\test\chap15_test01\Debug\chap15_encoding_test.exe

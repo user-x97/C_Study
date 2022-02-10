@@ -33,3 +33,6 @@ void main(void)
 	printf(" = %d\n", sum);
 	free(p_num_list); // ¹«Á¶°Ç
 }
+//youneedawiki
+//app/page
+//1yPRgg_mUgRdESRqhEbJrTzF3bDWphoPC

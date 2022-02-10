@@ -4,12 +4,12 @@ void encode(int*);
 
 void main(void)
 {
-	int num = 71321351;
+	int num = 123;
 	char* ptr = &num;
 	
 	for (size_t i = 0; i < 3; i++)
 	{
-		printf("num : %d\tHEX : %08x\tAddr : %p\n", num, num, &num);
+		printf(" HEX : %08x\tAdd : %p\tnum : %d\n", num, &num, num);
 		printf("*ptr : %02x\tptr : %p\n", *ptr, ptr);
 		printf("*ptr : %02x\tptr : %p\n", *(ptr + 1), ptr + 1);
 		printf("*ptr : %02x\tptr : %p\n", *(ptr + 2), ptr + 2);
